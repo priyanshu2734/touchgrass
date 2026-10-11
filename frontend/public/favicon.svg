@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="TouchGrass">
+  <rect width="32" height="32" rx="9" fill="#1B3A29"/>
+  <g fill="none" stroke="#FBF7EE" stroke-width="2.4" stroke-linecap="round">
+    <path d="M16 25 C16 18 15.5 13 11 8"/>
+    <path d="M16 25 C16 17 17 12 16 6"/>
+    <path d="M16 25 C17 19 19.5 15 24 12"/>
+  </g>
+  <circle cx="16" cy="26" r="1.6" fill="#E3792B"/>
+</svg>

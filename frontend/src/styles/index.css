@@ -1,0 +1,90 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+  html {
+    scroll-behavior: smooth;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    @apply bg-cream-100 font-body text-forest-800 antialiased;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.8' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .12 0 0 0 0 .22 0 0 0 0 .16 0 0 0 .045 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-display text-forest-900;
+    letter-spacing: -0.012em;
+  }
+  :focus-visible {
+    outline: 3px solid theme('colors.ember.500');
+    outline-offset: 2px;
+    border-radius: 6px;
+  }
+  ::selection {
+    background: theme('colors.sage.300');
+    color: theme('colors.forest.950');
+  }
+}
+
+@layer components {
+  .container-page {
+    @apply mx-auto w-full max-w-6xl px-5 sm:px-8;
+  }
+  .input {
+    @apply w-full rounded-xl border border-forest-800/30 bg-white px-4 py-3 text-[15px] text-forest-900 placeholder:text-forest-500/70 transition-colors hover:border-forest-800/50 focus:border-forest-700;
+  }
+  .skip-link {
+    @apply fixed left-4 top-4 z-[100] -translate-y-24 rounded-full bg-forest-900 px-5 py-2 text-sm font-semibold text-cream-50 transition-transform focus:translate-y-0;
+  }
+}
+
+/* Map markers (Part 3). Plain CSS so no image assets are needed. */
+.tg-marker-wrap {
+  background: transparent;
+  border: 0;
+}
+.tg-marker {
+  display: block;
+  width: 26px;
+  height: 26px;
+  border-radius: 9999px 9999px 9999px 0;
+  transform: rotate(-45deg) scale(0.8);
+  background: theme('colors.forest.700');
+  border: 3px solid theme('colors.cream.50');
+  box-shadow: 0 2px 6px rgba(18, 40, 28, 0.4);
+}
+.tg-marker-selected {
+  background: theme('colors.ember.500');
+  transform: rotate(-45deg) scale(1.05);
+}
+.tg-marker-origin {
+  display: block;
+  width: 18px;
+  height: 18px;
+  border-radius: 9999px;
+  background: theme('colors.ember.500');
+  border: 3px solid white;
+  box-shadow: 0 0 0 3px rgba(227, 121, 43, 0.35);
+}
+.leaflet-container {
+  font-family: inherit;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

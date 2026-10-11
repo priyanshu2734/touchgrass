@@ -1,0 +1,1120 @@
+[
+  {
+    "id": "five-minutes-at-the-door",
+    "title": "Five minutes at the door",
+    "summary": "Step outside, or stand in an open doorway or on a balcony, and notice what is around you for five minutes.",
+    "objective": "Spend a small, real stretch of time in outdoor air and pay attention to it.",
+    "category": "nature-observation",
+    "difficulty": "easy",
+    "minutes": 5,
+    "steps": [
+      "Go to a door, balcony, step or yard. Standing just inside an open door counts if going out is hard today.",
+      "Set a five-minute timer and put your phone away.",
+      "Name three sounds, two things that are moving and one thing you can smell or feel on your skin."
+    ],
+    "equipment": [],
+    "completionCriteria": [
+      "You spent five minutes at an open door or outdoors.",
+      "You named three sounds."
+    ],
+    "tip": "This is the smallest quest on purpose. Doing it on a hard day is a perfectly good result.",
+    "budget": "free",
+    "energy": "low",
+    "accessibility": [
+      "step-free",
+      "seating",
+      "shade",
+      "low-sensory",
+      "short-distance"
+    ],
+    "company": [
+      "solo",
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "nature"
+    ],
+    "travel": "doorstep",
+    "weatherSensitive": false,
+    "indoorFallback": {
+      "title": "Open-window pause",
+      "summary": "Open a window wide, sit beside it for five minutes and name three sounds you can hear.",
+      "minutes": 5
+    }
+  },
+  {
+    "id": "name-three-birds",
+    "title": "Name three birds",
+    "summary": "Spot three different birds and describe each one: size, colour, sound, behaviour.",
+    "objective": "Practise slow, close observation of the living things nearest to you.",
+    "category": "nature-observation",
+    "difficulty": "easy",
+    "minutes": 15,
+    "steps": [
+      "Walk to the nearest tree, hedge or water and stand still for two minutes.",
+      "Write or say what you see and hear. Guesses are fine.",
+      "Find three different birds and note one detail about each."
+    ],
+    "equipment": [
+      "Optional: notebook or phone notes",
+      "Optional: binoculars"
+    ],
+    "completionCriteria": [
+      "You stayed in one spot for at least two minutes.",
+      "You described three different birds."
+    ],
+    "tip": "A bird you cannot name still counts. Describe it and look it up later.",
+    "budget": "free",
+    "energy": "low",
+    "accessibility": [
+      "step-free",
+      "seating",
+      "low-sensory",
+      "short-distance"
+    ],
+    "company": [
+      "solo",
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "birdwatching",
+      "nature"
+    ],
+    "travel": "nearby",
+    "weatherSensitive": true,
+    "indoorFallback": {
+      "title": "Listen from a window",
+      "summary": "Open a window and note three bird sounds or movements. Describe each one in a sentence.",
+      "minutes": 10
+    }
+  },
+  {
+    "id": "cloud-spotter",
+    "title": "Cloud spotter",
+    "summary": "Watch the sky for ten minutes and describe how it changes.",
+    "objective": "Slow down by following one thing in the sky from start to finish.",
+    "category": "nature-observation",
+    "difficulty": "easy",
+    "minutes": 10,
+    "steps": [
+      "Find a spot with a wide view of the sky.",
+      "Pick one cloud and follow it for five minutes.",
+      "Note how its shape, colour or speed changed."
+    ],
+    "equipment": [],
+    "completionCriteria": [
+      "You watched one cloud (or the sky) for five minutes.",
+      "You noted at least one change."
+    ],
+    "budget": "free",
+    "energy": "low",
+    "accessibility": [
+      "step-free",
+      "seating",
+      "low-sensory",
+      "short-distance"
+    ],
+    "company": [
+      "solo",
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "nature",
+      "creativity"
+    ],
+    "travel": "doorstep",
+    "weatherSensitive": true,
+    "indoorFallback": {
+      "title": "Window sky watch",
+      "summary": "Sit by a window with a clear view of the sky and follow one cloud for five minutes.",
+      "minutes": 10
+    }
+  },
+  {
+    "id": "leaf-detective",
+    "title": "Leaf detective",
+    "summary": "Look closely at five different leaves and sort them by one feature you choose.",
+    "objective": "Notice variety in the plants around you by comparing them carefully.",
+    "category": "nature-observation",
+    "difficulty": "easy",
+    "minutes": 20,
+    "steps": [
+      "Walk to the nearest trees, bushes or a patch of weeds.",
+      "Find five leaves that look different. Look at edges, size and vein patterns. Fallen leaves are fine to pick up.",
+      "Group them by one feature of your choice and note which group is biggest."
+    ],
+    "equipment": [
+      "Optional: notebook or phone camera"
+    ],
+    "completionCriteria": [
+      "You looked closely at five different leaves.",
+      "You sorted them by one feature."
+    ],
+    "tip": "Leave living plants intact and wash your hands afterwards. Do not taste anything you find.",
+    "budget": "free",
+    "energy": "low",
+    "accessibility": [
+      "seating",
+      "short-distance"
+    ],
+    "company": [
+      "solo",
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "nature",
+      "creativity"
+    ],
+    "travel": "nearby",
+    "weatherSensitive": true,
+    "indoorFallback": {
+      "title": "Houseplant leaf study",
+      "summary": "Compare the leaves of three houseplants or kitchen herbs: shape, texture, edges.",
+      "minutes": 15
+    }
+  },
+  {
+    "id": "listen-map",
+    "title": "Sound map",
+    "summary": "Sit still and draw a simple map of every sound you hear, placed by direction.",
+    "objective": "Turn listening into a small, concrete observation task.",
+    "category": "nature-observation",
+    "difficulty": "easy",
+    "minutes": 15,
+    "steps": [
+      "Sit somewhere you can stay for five minutes. Draw a dot in the middle of a page for yourself.",
+      "Each time you hear a sound, mark its direction with a symbol or a word.",
+      "After five minutes, look at your map and circle the sound you liked most."
+    ],
+    "equipment": [
+      "Paper and pen, or a notes app"
+    ],
+    "completionCriteria": [
+      "You sat still for five minutes.",
+      "You recorded at least eight sounds."
+    ],
+    "budget": "free",
+    "energy": "low",
+    "accessibility": [
+      "step-free",
+      "seating",
+      "short-distance"
+    ],
+    "company": [
+      "solo",
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "nature",
+      "creativity"
+    ],
+    "travel": "doorstep",
+    "weatherSensitive": true,
+    "indoorFallback": {
+      "title": "Sound map from a window",
+      "summary": "Do the same sound map from beside an open window for ten minutes.",
+      "minutes": 10
+    }
+  },
+  {
+    "id": "light-and-shadow",
+    "title": "Light and shadow",
+    "summary": "Take five photos where the light is the subject, not the object.",
+    "objective": "Train your eye to notice light, one photo at a time.",
+    "category": "photography",
+    "difficulty": "easy",
+    "minutes": 20,
+    "steps": [
+      "Walk somewhere with trees, buildings or railings.",
+      "Photograph five different shadows or patches of light.",
+      "Pick your favourite and notice what made it work."
+    ],
+    "equipment": [
+      "Phone or camera"
+    ],
+    "completionCriteria": [
+      "You took five photos focused on light or shadow.",
+      "You picked a favourite."
+    ],
+    "tip": "Low sun makes long shadows. Early morning and late afternoon are best.",
+    "budget": "free",
+    "energy": "low",
+    "accessibility": [
+      "seating",
+      "short-distance"
+    ],
+    "company": [
+      "solo",
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "photography",
+      "creativity"
+    ],
+    "travel": "nearby",
+    "weatherSensitive": true,
+    "indoorFallback": {
+      "title": "Window light study",
+      "summary": "Photograph five patterns of light or shadow that fall inside your home.",
+      "minutes": 15
+    }
+  },
+  {
+    "id": "closer-than-usual",
+    "title": "Closer than usual",
+    "summary": "Photograph three small things up close: bark, a petal, a stone, a seed head.",
+    "objective": "See familiar places differently by getting close.",
+    "category": "photography",
+    "difficulty": "moderate",
+    "minutes": 30,
+    "steps": [
+      "Choose a patch of ground or a single tree.",
+      "Move slowly and look for texture and pattern.",
+      "Take three close-ups from different angles."
+    ],
+    "equipment": [
+      "Phone or camera"
+    ],
+    "completionCriteria": [
+      "You took three close-up photos.",
+      "Each one is from a different angle."
+    ],
+    "budget": "free",
+    "energy": "low",
+    "accessibility": [
+      "short-distance"
+    ],
+    "company": [
+      "solo",
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "photography",
+      "nature"
+    ],
+    "travel": "nearby",
+    "weatherSensitive": true,
+    "indoorFallback": {
+      "title": "Close-ups at home",
+      "summary": "Photograph three small textures indoors: fabric, a plant leaf, a wooden surface.",
+      "minutes": 20
+    }
+  },
+  {
+    "id": "colour-hunt",
+    "title": "Colour hunt",
+    "summary": "Pick one colour and find ten things in that colour while you are outside.",
+    "objective": "Turn an ordinary outing into a game of looking.",
+    "category": "photography",
+    "difficulty": "easy",
+    "minutes": 20,
+    "steps": [
+      "Choose a colour before you go out.",
+      "Walk anywhere you like and spot things in that colour.",
+      "Photograph or note at least three of the ten things you found."
+    ],
+    "equipment": [
+      "Phone or camera, or just your eyes"
+    ],
+    "completionCriteria": [
+      "You found ten things in your colour.",
+      "You recorded three of them."
+    ],
+    "tip": "Good with children. Let them choose the colour.",
+    "budget": "free",
+    "energy": "low",
+    "accessibility": [
+      "short-distance"
+    ],
+    "company": [
+      "solo",
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "photography",
+      "creativity",
+      "walking"
+    ],
+    "travel": "nearby",
+    "weatherSensitive": false,
+    "indoorFallback": {
+      "title": "Colour hunt at home",
+      "summary": "Find ten things in your colour inside your home and arrange three of them together.",
+      "minutes": 15
+    }
+  },
+  {
+    "id": "sketch-a-view",
+    "title": "Sketch a view",
+    "summary": "Draw one outdoor view for fifteen minutes. Rough is fine.",
+    "objective": "Look at one scene long enough to really see it.",
+    "category": "photography",
+    "difficulty": "easy",
+    "minutes": 25,
+    "steps": [
+      "Find a place to sit with a view you like.",
+      "Sketch the main shapes first, then add detail for fifteen minutes.",
+      "Write the date and place on the page."
+    ],
+    "equipment": [
+      "Paper or sketchbook",
+      "Pencil or pen",
+      "Something firm to lean on"
+    ],
+    "completionCriteria": [
+      "You drew one view for at least fifteen minutes.",
+      "You finished it, however rough."
+    ],
+    "tip": "No one has to see it. The looking is the point.",
+    "budget": "low",
+    "energy": "low",
+    "accessibility": [
+      "seating",
+      "short-distance"
+    ],
+    "company": [
+      "solo",
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "creativity"
+    ],
+    "travel": "nearby",
+    "weatherSensitive": true,
+    "indoorFallback": {
+      "title": "Sketch from a window",
+      "summary": "Sketch the view from a window for twenty minutes.",
+      "minutes": 20
+    }
+  },
+  {
+    "id": "seed-to-sprout",
+    "title": "Seed to sprout",
+    "summary": "Plant something small outdoors or on a balcony and set a reminder to check it.",
+    "objective": "Start something growing and give yourself a reason to come back outside.",
+    "category": "gardening",
+    "difficulty": "easy",
+    "minutes": 15,
+    "steps": [
+      "Choose a pot or patch and fill it with soil.",
+      "Plant a seed or cutting.",
+      "Water it and note a day to check on it."
+    ],
+    "equipment": [
+      "Pot or container with drainage",
+      "Soil or compost",
+      "Seeds or a cutting",
+      "Water"
+    ],
+    "completionCriteria": [
+      "You planted something.",
+      "You picked a day to check on it."
+    ],
+    "tip": "Herbs like basil, mint and coriander are forgiving for beginners.",
+    "budget": "low",
+    "energy": "low",
+    "accessibility": [
+      "seating",
+      "short-distance"
+    ],
+    "company": [
+      "solo",
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "gardening"
+    ],
+    "travel": "doorstep",
+    "weatherSensitive": false,
+    "indoorFallback": {
+      "title": "Windowsill sprout",
+      "summary": "Plant a seed in a small container on a bright indoor windowsill and note a day to check it.",
+      "minutes": 15
+    }
+  },
+  {
+    "id": "tend-a-patch",
+    "title": "Tend a patch",
+    "summary": "Spend half an hour weeding, watering or tidying one growing space.",
+    "objective": "Give steady care to one small piece of green space.",
+    "category": "gardening",
+    "difficulty": "moderate",
+    "minutes": 30,
+    "steps": [
+      "Pick one bed, pot group or window box.",
+      "Remove weeds and dead leaves.",
+      "Water at the base of the plants."
+    ],
+    "equipment": [
+      "Gloves",
+      "Small trowel or just your hands",
+      "Watering can or bottle",
+      "Bag for green waste"
+    ],
+    "completionCriteria": [
+      "You worked on one growing space for at least twenty minutes.",
+      "You removed weeds or dead leaves and watered."
+    ],
+    "tip": "Take breaks. Kneeling pads and a low stool make this much easier on the body.",
+    "budget": "free",
+    "energy": "medium",
+    "accessibility": [
+      "short-distance"
+    ],
+    "company": [
+      "solo",
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "gardening",
+      "fitness"
+    ],
+    "travel": "doorstep",
+    "weatherSensitive": true,
+    "indoorFallback": {
+      "title": "Houseplant tidy",
+      "summary": "Remove dead leaves, wipe dust off, and water a few houseplants.",
+      "minutes": 20
+    }
+  },
+  {
+    "id": "pollinator-water-stop",
+    "title": "Pollinator water stop",
+    "summary": "Set up a shallow dish with pebbles and fresh water for bees and other insects.",
+    "objective": "Make a small, practical contribution to local wildlife.",
+    "category": "gardening",
+    "difficulty": "easy",
+    "minutes": 20,
+    "steps": [
+      "Choose a shaded or part-shaded spot you can see from a window or door.",
+      "Fill a shallow dish with pebbles so insects have somewhere to land.",
+      "Add water to just below the top of the pebbles, and note a day to refresh it."
+    ],
+    "equipment": [
+      "Shallow dish or saucer",
+      "Pebbles or stones",
+      "Water"
+    ],
+    "completionCriteria": [
+      "You set up the dish in a safe spot.",
+      "You chose a day to refresh the water."
+    ],
+    "tip": "Change the water every few days so it does not become a place for mosquitoes to breed.",
+    "budget": "free",
+    "energy": "low",
+    "accessibility": [
+      "seating",
+      "short-distance"
+    ],
+    "company": [
+      "solo",
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "gardening",
+      "nature"
+    ],
+    "travel": "doorstep",
+    "weatherSensitive": false,
+    "indoorFallback": {
+      "title": "Plan a pollinator pot",
+      "summary": "Sketch which flowering plants you could grow in one pot and where it would sit.",
+      "minutes": 15
+    }
+  },
+  {
+    "id": "compost-starter",
+    "title": "Compost starter",
+    "summary": "Start a small compost caddy or bin with kitchen scraps and dry leaves or paper.",
+    "objective": "Set up a simple habit that reduces waste.",
+    "category": "gardening",
+    "difficulty": "easy",
+    "minutes": 25,
+    "steps": [
+      "Pick a container with a lid, or check what your area offers for food-waste collection.",
+      "Layer vegetable scraps with dry leaves or torn paper.",
+      "Put it somewhere convenient and note what you can and cannot add."
+    ],
+    "equipment": [
+      "Container with a lid",
+      "Vegetable scraps",
+      "Dry leaves or torn paper"
+    ],
+    "completionCriteria": [
+      "You set up a container or confirmed a collection option.",
+      "You wrote down what to add."
+    ],
+    "tip": "Avoid meat, dairy and cooked food in a basic home compost.",
+    "budget": "free",
+    "energy": "low",
+    "accessibility": [
+      "seating",
+      "short-distance"
+    ],
+    "company": [
+      "solo",
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "gardening"
+    ],
+    "travel": "doorstep",
+    "weatherSensitive": false,
+    "indoorFallback": {
+      "title": "Find your local options",
+      "summary": "Look up what your local council accepts for food waste and garden waste.",
+      "minutes": 10
+    }
+  },
+  {
+    "id": "phone-away-walk",
+    "title": "Phone-away walk",
+    "summary": "Walk for twenty minutes with your phone in a bag or pocket, no headphones.",
+    "objective": "Walk without a screen so you can notice what is around you.",
+    "category": "walking",
+    "difficulty": "easy",
+    "minutes": 20,
+    "steps": [
+      "Set a timer, then put the phone away.",
+      "Walk any route you like.",
+      "When the timer ends, note one thing you noticed that you would have missed."
+    ],
+    "equipment": [
+      "Comfortable shoes",
+      "A bag or pocket for your phone"
+    ],
+    "completionCriteria": [
+      "You walked for twenty minutes with your phone away.",
+      "You noted one thing you noticed."
+    ],
+    "tip": "If you need your phone for safety or maps, keep it on silent and pocketed.",
+    "budget": "free",
+    "energy": "medium",
+    "accessibility": [
+      "step-free",
+      "short-distance",
+      "low-sensory"
+    ],
+    "company": [
+      "solo",
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "walking"
+    ],
+    "travel": "doorstep",
+    "weatherSensitive": true,
+    "indoorFallback": {
+      "title": "Slow walk at home",
+      "summary": "Walk slowly around your home for ten minutes with your phone in another room and notice sounds and light.",
+      "minutes": 10
+    }
+  },
+  {
+    "id": "two-stops-farther",
+    "title": "Two stops farther",
+    "summary": "Get off public transport two stops early, or park farther away, and walk the rest.",
+    "objective": "Add a short walk to a trip you were making anyway.",
+    "category": "walking",
+    "difficulty": "moderate",
+    "minutes": 40,
+    "steps": [
+      "Check that the walk is safe and well-lit.",
+      "Get off early or park farther away.",
+      "Walk the rest and notice something new on the route."
+    ],
+    "equipment": [
+      "Comfortable shoes",
+      "Transport pass if you need one"
+    ],
+    "completionCriteria": [
+      "You added a walk of at least fifteen minutes to a trip.",
+      "You noticed something new on the route."
+    ],
+    "budget": "low",
+    "energy": "medium",
+    "accessibility": [],
+    "company": [
+      "solo",
+      "friends"
+    ],
+    "interests": [
+      "walking",
+      "fitness"
+    ],
+    "travel": "short-trip",
+    "weatherSensitive": true,
+    "indoorFallback": {
+      "title": "Stairs and stretch break",
+      "summary": "Use stairs instead of a lift where you can, then do a short stretch by an open window.",
+      "minutes": 10
+    }
+  },
+  {
+    "id": "ten-minute-loop",
+    "title": "Ten-minute loop",
+    "summary": "Walk five minutes in any direction, turn around, and walk back.",
+    "objective": "Make a short outing as simple as possible.",
+    "category": "walking",
+    "difficulty": "easy",
+    "minutes": 10,
+    "steps": [
+      "Put on shoes and set a timer for ten minutes.",
+      "Walk out for five minutes at a comfortable pace, then turn around.",
+      "Notice one thing on the way back that you did not see on the way out."
+    ],
+    "equipment": [
+      "Comfortable shoes"
+    ],
+    "completionCriteria": [
+      "You walked for ten minutes in total.",
+      "You noticed one new thing."
+    ],
+    "tip": "Go as slowly as you like. A slow ten minutes is still ten minutes outside.",
+    "budget": "free",
+    "energy": "low",
+    "accessibility": [
+      "step-free",
+      "short-distance",
+      "low-sensory"
+    ],
+    "company": [
+      "solo",
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "walking"
+    ],
+    "travel": "doorstep",
+    "weatherSensitive": true,
+    "indoorFallback": {
+      "title": "Ten minutes of gentle movement indoors",
+      "summary": "Walk slowly through your home and stretch for ten minutes with a window open.",
+      "minutes": 10
+    }
+  },
+  {
+    "id": "gentle-stretch-outside",
+    "title": "Gentle stretch outside",
+    "summary": "Do a few easy stretches or slow movements in fresh air.",
+    "objective": "Combine light movement with being outdoors.",
+    "category": "walking",
+    "difficulty": "easy",
+    "minutes": 15,
+    "steps": [
+      "Find a flat spot outside, or stand in a doorway if that is easier.",
+      "Do five or six gentle movements within your comfortable range: reach up, roll your shoulders, bend gently to each side.",
+      "Finish with five slow breaths and notice the air."
+    ],
+    "equipment": [
+      "Optional: mat or towel"
+    ],
+    "completionCriteria": [
+      "You moved gently for at least ten minutes.",
+      "You stayed within your comfortable range."
+    ],
+    "tip": "Stop if anything hurts. This is not a workout and is not medical advice.",
+    "budget": "free",
+    "energy": "low",
+    "accessibility": [
+      "step-free",
+      "seating",
+      "short-distance",
+      "low-sensory"
+    ],
+    "company": [
+      "solo",
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "fitness",
+      "nature"
+    ],
+    "travel": "doorstep",
+    "weatherSensitive": true,
+    "indoorFallback": {
+      "title": "Stretch by an open window",
+      "summary": "Do the same gentle stretches beside an open window for ten minutes.",
+      "minutes": 10
+    }
+  },
+  {
+    "id": "pick-up-ten",
+    "title": "Pick up ten",
+    "summary": "Collect ten pieces of litter from your street or a nearby park and dispose of them properly.",
+    "objective": "Leave one small patch of your neighbourhood cleaner than you found it.",
+    "category": "kindness",
+    "difficulty": "easy",
+    "minutes": 20,
+    "steps": [
+      "Bring gloves and a bag.",
+      "Avoid sharp or hazardous items and report them instead.",
+      "Dispose of the litter in a bin and wash your hands."
+    ],
+    "equipment": [
+      "Gloves",
+      "Bag",
+      "Hand wash or sanitiser"
+    ],
+    "completionCriteria": [
+      "You collected ten pieces of litter.",
+      "You disposed of them properly and avoided hazardous items."
+    ],
+    "budget": "free",
+    "energy": "medium",
+    "accessibility": [
+      "short-distance"
+    ],
+    "company": [
+      "solo",
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "nature",
+      "walking"
+    ],
+    "travel": "nearby",
+    "weatherSensitive": true,
+    "indoorFallback": {
+      "title": "Sort your recycling",
+      "summary": "Check your recycling and rubbish bins at home and sort items correctly.",
+      "minutes": 15
+    }
+  },
+  {
+    "id": "say-hello-neighbour",
+    "title": "Say hello to a neighbour",
+    "summary": "Greet someone nearby and ask them one question about the area.",
+    "objective": "Make one small, friendly connection close to home.",
+    "category": "kindness",
+    "difficulty": "easy",
+    "minutes": 10,
+    "steps": [
+      "Go outside where neighbours are likely to be.",
+      "Say hello and introduce yourself if you have not met.",
+      "Ask one question: a favourite local spot, or how long they have lived there."
+    ],
+    "equipment": [],
+    "completionCriteria": [
+      "You greeted someone nearby.",
+      "You asked one question, or smiled and nodded if that felt right."
+    ],
+    "tip": "Only do this if it feels comfortable. A smile and a nod still counts.",
+    "budget": "free",
+    "energy": "low",
+    "accessibility": [
+      "step-free",
+      "short-distance"
+    ],
+    "company": [
+      "solo",
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "social"
+    ],
+    "travel": "doorstep",
+    "weatherSensitive": true,
+    "indoorFallback": {
+      "title": "Write a note",
+      "summary": "Write a short friendly note or message to a neighbour or friend you have not spoken to lately.",
+      "minutes": 10
+    }
+  },
+  {
+    "id": "thank-a-local-worker",
+    "title": "Thank a local worker",
+    "summary": "Thank someone who keeps your neighbourhood running: a delivery rider, bus driver, street cleaner or shopkeeper.",
+    "objective": "Notice and appreciate the people who work outdoors around you.",
+    "category": "kindness",
+    "difficulty": "easy",
+    "minutes": 10,
+    "steps": [
+      "Pick a moment when the person is not rushed.",
+      "Say thank you and name one specific thing they do that helps.",
+      "Leave it there. No reply is needed."
+    ],
+    "equipment": [],
+    "completionCriteria": [
+      "You thanked someone in person.",
+      "You named one specific thing."
+    ],
+    "budget": "free",
+    "energy": "low",
+    "accessibility": [
+      "step-free",
+      "short-distance"
+    ],
+    "company": [
+      "solo",
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "social"
+    ],
+    "travel": "doorstep",
+    "weatherSensitive": true,
+    "indoorFallback": {
+      "title": "Write a thank-you message",
+      "summary": "Write a thank-you message to someone who helped you this week.",
+      "minutes": 10
+    }
+  },
+  {
+    "id": "report-one-thing",
+    "title": "Report one thing",
+    "summary": "Walk your street, spot one fixable problem such as a broken light or blocked path, and report it.",
+    "objective": "Use a short walk to look after a shared space.",
+    "category": "kindness",
+    "difficulty": "easy",
+    "minutes": 20,
+    "steps": [
+      "Walk around your block or a nearby park and look for something that needs fixing.",
+      "Take a photo if you can do so without including people.",
+      "Report it through your local council's website or app, or note it down to report later."
+    ],
+    "equipment": [
+      "Phone for a photo or report"
+    ],
+    "completionCriteria": [
+      "You found one real issue.",
+      "You reported it or wrote down where to report it."
+    ],
+    "budget": "free",
+    "energy": "low",
+    "accessibility": [
+      "short-distance"
+    ],
+    "company": [
+      "solo",
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "walking",
+      "social"
+    ],
+    "travel": "nearby",
+    "weatherSensitive": true,
+    "indoorFallback": {
+      "title": "Report an issue you remember",
+      "summary": "Think of a local problem you have noticed recently and look up how to report it.",
+      "minutes": 10
+    }
+  },
+  {
+    "id": "walk-and-talk",
+    "title": "Walk and talk",
+    "summary": "Invite someone to walk and chat instead of meeting indoors or on a call.",
+    "objective": "Spend time with another person while moving at an easy pace outdoors.",
+    "category": "social",
+    "difficulty": "easy",
+    "minutes": 30,
+    "steps": [
+      "Invite one person and agree on a short route and a time.",
+      "Walk at the pace of whoever is slowest, with phones away.",
+      "Finish with a quick sit-down or a drink if you both want one."
+    ],
+    "equipment": [
+      "Comfortable shoes"
+    ],
+    "completionCriteria": [
+      "You walked with at least one other person for twenty minutes.",
+      "You talked or listened more than you scrolled."
+    ],
+    "budget": "free",
+    "energy": "low",
+    "accessibility": [
+      "step-free",
+      "seating",
+      "short-distance"
+    ],
+    "company": [
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "walking",
+      "social"
+    ],
+    "travel": "nearby",
+    "weatherSensitive": true,
+    "indoorFallback": {
+      "title": "Tea by the window",
+      "summary": "Share a drink beside an open window instead, in person or on a call.",
+      "minutes": 30
+    }
+  },
+  {
+    "id": "shared-picnic",
+    "title": "Shared picnic",
+    "summary": "Share a simple picnic with friends, family or neighbours.",
+    "objective": "Make a meal an excuse to sit outside together.",
+    "category": "social",
+    "difficulty": "easy",
+    "minutes": 60,
+    "steps": [
+      "Pick a spot and a time, and ask each person to bring one thing.",
+      "Spread out something to sit on and eat slowly.",
+      "Take all your rubbish home with you."
+    ],
+    "equipment": [
+      "Something to sit on",
+      "Food and drink to share",
+      "Bag for rubbish"
+    ],
+    "completionCriteria": [
+      "You shared food outdoors for at least thirty minutes.",
+      "You took all your rubbish with you."
+    ],
+    "budget": "low",
+    "energy": "low",
+    "accessibility": [
+      "short-distance"
+    ],
+    "company": [
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "social",
+      "nature"
+    ],
+    "travel": "nearby",
+    "weatherSensitive": true,
+    "indoorFallback": {
+      "title": "Floor picnic",
+      "summary": "Spread a blanket by a window and share the same food indoors.",
+      "minutes": 45
+    }
+  },
+  {
+    "id": "outdoor-i-spy",
+    "title": "Outdoor I-spy",
+    "summary": "Play a no-equipment game outside: I-spy, a scavenger list or a simple tag.",
+    "objective": "Play together outdoors with almost no preparation.",
+    "category": "social",
+    "difficulty": "easy",
+    "minutes": 30,
+    "steps": [
+      "Choose a simple game everyone knows or write a short list of things to find.",
+      "Play for at least twenty minutes.",
+      "Let the youngest or slowest player set the pace."
+    ],
+    "equipment": [
+      "Optional: a written list and pencil"
+    ],
+    "completionCriteria": [
+      "You played for at least twenty minutes.",
+      "Everyone who wanted to join could take part."
+    ],
+    "budget": "free",
+    "energy": "medium",
+    "accessibility": [
+      "short-distance"
+    ],
+    "company": [
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "social",
+      "fitness"
+    ],
+    "travel": "nearby",
+    "weatherSensitive": true,
+    "indoorFallback": {
+      "title": "Window I-spy",
+      "summary": "Play I-spy using only what you can see through a window.",
+      "minutes": 15
+    }
+  },
+  {
+    "id": "group-tidy-up",
+    "title": "Group tidy-up",
+    "summary": "Do a small group clean-up or planting session in a shared outdoor space.",
+    "objective": "Do something useful for a shared space together.",
+    "category": "social",
+    "difficulty": "moderate",
+    "minutes": 60,
+    "steps": [
+      "Invite two or three people or join a local event, and agree on one small area.",
+      "Bring gloves and bags, and check you may work there.",
+      "Work for around forty-five minutes, then share a drink."
+    ],
+    "equipment": [
+      "Gloves",
+      "Bags",
+      "Water to drink"
+    ],
+    "completionCriteria": [
+      "You spent at least thirty minutes on a shared outdoor task with another person.",
+      "You left the space tidy and disposed of waste properly."
+    ],
+    "tip": "Skip sharp, hazardous or unknown items and report them instead.",
+    "budget": "free",
+    "energy": "medium",
+    "accessibility": [
+      "short-distance"
+    ],
+    "company": [
+      "friends",
+      "family",
+      "group"
+    ],
+    "interests": [
+      "social",
+      "nature",
+      "gardening"
+    ],
+    "travel": "nearby",
+    "weatherSensitive": true,
+    "indoorFallback": {
+      "title": "Plan the day",
+      "summary": "Message three people, pick a date and choose a small area to look after.",
+      "minutes": 15
+    }
+  }
+]

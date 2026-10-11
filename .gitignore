@@ -1,0 +1,32 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Local databases (your progress lives here, never commit it)
+backend/data/*.db
+backend/data/*.db-*
+*.db
+*.db-wal
+*.db-shm
+
+# Node
+node_modules/
+dist/
+*.tsbuildinfo
+npm-debug.log*
+
+# Editors and OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
